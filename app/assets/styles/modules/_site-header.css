@@ -9,6 +9,7 @@
     background-color: rgba($mainBlue, 0.55);
   }
   @mixin atMedium {
+    position: fixed;
     background-color: rgba($mainBlue, 0.3);
   }
 
